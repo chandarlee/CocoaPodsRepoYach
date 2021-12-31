@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
  s.homepage = 'http://netease.im'   
  s.license = { :'type' => 'Copyright', :'text' => ' Copyright 2019 Netease '}  
  s.authors = 'Netease IM Team'  
- s.source = { :http => 'https://yx-web-nosdn.netease.im/quickhtml/assets/yunxin/im/sdk/iOS/custom_sf_sy/6454d95e0/NIM_iOS_SDK_IM_v7.8.6.zip'}  
+ s.source = { :http => 'https://yx-web-nosdn.netease.im/package/1640259817/NIM_iOS_SDK_IM_v8.10.0.zip'}  
  s.platform = :ios, '9.0'
  s.vendored_frameworks = '**/NIMSDK.framework'  
  s.frameworks = 'SystemConfiguration', 'AVFoundation', 'CoreTelephony', 'AudioToolbox', 'CoreMedia' , 'VideoToolbox'   
